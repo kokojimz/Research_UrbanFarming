@@ -23,6 +23,13 @@ Components :
   <li>Node MCU ESP 8266</li>
   <li>Breadboard</li>
   <li>Jumper wire</li>
+  <li>Gravity: Analog TDS Sensor</li>
+  <li>DS18B20 </li>
+  <li>DFRobot : Analog Turbidity Sensor</li>
+  <li>ADS1115 16 bit I2C ADC 4 Channel Analog to Digital Converter Arduino</li>
+  <li>Resistor</li>
+  <li>ESP32 ESP-32 DEVKITC V4 WROOM-32D WIFI</li>
+  <li>PH-4502C</li>
 </ul>
 
 ## Stack
